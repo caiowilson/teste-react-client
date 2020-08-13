@@ -18,7 +18,7 @@ npm install
 yarn install
 ```
 
-or
+then
 
 ### Compiles and hot-reloads for development
 
